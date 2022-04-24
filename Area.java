@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Area
+class Area 
 {
 public static void main(String[] args)
 {
